@@ -1,0 +1,12 @@
+c:\users\xbyig\documents\visual studio 2015\Projects\科学计算器\科学计算器\bin\Debug\科学计算器.exe.config
+C:\Users\xbyig\documents\visual studio 2015\Projects\科学计算器\科学计算器\bin\Debug\科学计算器.exe
+C:\Users\xbyig\documents\visual studio 2015\Projects\科学计算器\科学计算器\bin\Debug\科学计算器.pdb
+C:\Users\xbyig\documents\visual studio 2015\Projects\科学计算器\科学计算器\obj\Debug\科学计算器.csprojResolveAssemblyReference.cache
+C:\Users\xbyig\documents\visual studio 2015\Projects\科学计算器\科学计算器\obj\Debug\科学计算器.Form1.resources
+C:\Users\xbyig\documents\visual studio 2015\Projects\科学计算器\科学计算器\obj\Debug\科学计算器.Properties.Resources.resources
+C:\Users\xbyig\documents\visual studio 2015\Projects\科学计算器\科学计算器\obj\Debug\科学计算器.csproj.GenerateResource.Cache
+C:\Users\xbyig\documents\visual studio 2015\Projects\科学计算器\科学计算器\obj\Debug\科学计算器.exe
+C:\Users\xbyig\documents\visual studio 2015\Projects\科学计算器\科学计算器\obj\Debug\科学计算器.pdb
+C:\Users\xbyig\Desktop\10142510111陈鹏_Lab02_科学计算器\10142510111_Lab02\Source Code\科学计算器\科学计算器\bin\Debug\科学计算器.exe.config
+C:\Users\xbyig\Desktop\10142510111陈鹏_Lab02_科学计算器\10142510111_Lab02\Source Code\科学计算器\科学计算器\obj\Debug\科学计算器.exe
+C:\Users\xbyig\Desktop\10142510111陈鹏_Lab02_科学计算器\10142510111_Lab02\Source Code\科学计算器\科学计算器\obj\Debug\科学计算器.pdb

@@ -1,0 +1,1 @@
+Put your software documentation in this folder. A lab report is required for each project. You can also add any supplementary materials here. 
